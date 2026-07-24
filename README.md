@@ -11,9 +11,9 @@
 
 <h2> More GitHub metrics </h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andreminelli&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=andreminelli&show_icons=true&theme=transparent&hide_border=true" />
 </p>  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreminelli&theme=transparent&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreminelli&theme=transparent&layout=compact&hide_border=true" />
 </p>
 
